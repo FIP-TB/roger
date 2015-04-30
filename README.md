@@ -27,6 +27,8 @@ Pour lancer le robot:
 
 ## Scripts
 
+Les scripts sont écrits en [CoffeeScript](http://coffeescript.org/), un langage qui compile en JavaScript.
+
 Pour activer un script il suffit de le rajouter dans `hubot-scripts.json`, par exemple: 
 ```json
 [ "9gag.coffee", "kittens.coffee" ]
